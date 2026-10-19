@@ -1,0 +1,5 @@
+{
+  "name": "kastas-plugins",
+  "owner": { "name": "Stanislav Kazantsev" },
+  "plugins": [{ "name": "limits-bar", "source": "./" }]
+}
